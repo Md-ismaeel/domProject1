@@ -4,7 +4,7 @@ This project ensures a consistent user interface across all steps. The target di
 
 ## Instructions to View Hosted Version
 
-1. Visit the live version at [Hosted Link](insert_your_hosted_link_here).
+1. Visit the live version at [Hosted Link](https://md-ismaeel.github.io/domProject1/).
 
 ## Styling Details
 
